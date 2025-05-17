@@ -1,3 +1,13 @@
+> Provisional Title Lost Frog is a Mastodon fork that adds the following features:
+> * Each toot has associated geolocation data.
+> * The feed is presented in map format.
+> * Toots are filtered by physical proximity to the user.
+> Stretch goals include:
+> * Adding multiple reacts, which modify a toot's time-to-live depending on admin policy.
+> * Toots are ordered by time-to-live
+
+
+
 > [!NOTE]
 > Want to learn more about Mastodon?
 > Click below to find out more in a video.
